@@ -48,6 +48,21 @@
 Clone the repo and install dependencies:
 
 ```bash
-git clone https://github.com/your-username/Zuum.git
+git clone https://github.com/DevShivaa321/Zuum-app.git
 cd Zuum
 npm install
+
+
+---
+
+## 🚀 How to Check and Push This to GitHub
+
+### ✅ 1. Preview and test locally
+
+Make sure:
+```bash
+npm run dev
+
+
+
+
