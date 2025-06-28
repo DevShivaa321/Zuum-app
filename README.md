@@ -6,7 +6,8 @@
 
 ## 🚀 Live Demo
 
-🔗 [https://zuum.vercel.app]([https://zuum.vercel.app](https://zuum-app-74ph.vercel.app/))
+🔗 [https://zuum-app-74ph.vercel.app](https://zuum-app-74ph.vercel.app)
+
 
 ---
 
